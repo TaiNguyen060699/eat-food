@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  background-color: #104E8B;
+}
+.socical{
+  display: flex;
+  align-items: center;
+}
+.facebook {
+  margin-right: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.img_footer {
+  width: 150px;
+  padding: 12px;
+}
+
+.imgLogo{
+  margin-left: -10%;
+}
+
+.about {
+  margin-right: 10px;
+}
+.contact {
+  margin-right: 20px;
+}
+span {
+  color: white
+}

@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 150px;
+  height: 100px; 
+}
+
+.search {
+  height: 50px;
+  width: 40%;
+  margin-top: 25px;  
+}
+
+.img {
+  position: relative;
+  top: 55%;
+  left: 2%;
+  cursor: pointer;
+} 
+.form-control {
+  text-align: center;
+}
+
+.button {
+  margin-top: 45px;
+}
+
+.button, button {
+  border: none;
+  background-color: white;
+  font-weight: 700;
+}

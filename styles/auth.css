@@ -1,0 +1,43 @@
+.auth {
+  width: 50%;
+  background-color: #F2F2F2;
+  margin: 0 auto;
+}
+.wrapper {
+  padding: 0 20px;
+}
+
+.register {
+  text-align: center;
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
+.sdt, .fb, .gg, .username, .password{
+  display: flex;
+  align-items: center;
+  background-color: #BDBDBD;
+  margin-top: 15px;
+  height: 40px;
+}
+.username {
+  margin: 0 !important;
+}
+
+i {
+ margin-left: 10px;
+}
+
+span {
+  margin: auto;
+}
+
+.content, .content1 {
+  text-align: center;
+  margin: 20px 40px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
