@@ -32,6 +32,23 @@ span {
   margin: auto;
 }
 
+button {
+  border: none;
+  background-color: #BDBDBD;
+  width: 100%;
+}
+
+input {
+  border: none;
+  background-color: #BDBDBD;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.login-form {
+  border: 3px solid gray ;
+}
+
 .content, .content1 {
   text-align: center;
   margin: 20px 40px;
